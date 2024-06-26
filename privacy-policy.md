@@ -16,7 +16,7 @@ This Application collects your precise location when recording a given configura
 
 **Do third parties see and/or have access to information obtained by the Application?**
 
-This Application uses Apple's CloudKit for storing and syncing data. See Apple's Privacy Policy at https://www.apple.com/ua/privacy/approach-to-privacy/.
+This Application uses Apple's CloudKit for storing and syncing data. See Apple's Privacy Policy at https://www.apple.com/legal/privacy/en-ww/.
 
 **What are my opt-out rights?**
 
