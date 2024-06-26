@@ -15,5 +15,12 @@ Features:
 - Add notes that remind you of extra details from a run.
 - Easily share the settings of a component with a shop or mechanic in photo form.
 
+# Screenshots
+![Home](images/1.png)
+
+![Save New](images/2.png)
+
+![History](images/3.png)
+
 # Support
 Need help? Email hi -at- damper dot bike with info and I'll try to sort you out the best I can.
